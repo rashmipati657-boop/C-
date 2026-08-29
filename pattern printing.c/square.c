@@ -1,11 +1,7 @@
 #include<stdio.h>
 int main() {
-    int x;
-    printf("Enter a number: ");
-    scanf("%d", &x);
-    for(int i=1;i<=;i++){
-        printf("1234");
-        printf("\n");
-    }
+    float x;
+    x=3.14159;
+    printf("The value of x is: %.8f", x);
     return 0;
 }

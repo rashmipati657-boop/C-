@@ -1,6 +1,6 @@
 #include <stdio.h>  
 int main(){
- 
+ //variable declarartion
 int arr[5];
 for(int i=0;i<=4;i++){
     printf("Enter your Elements : ");

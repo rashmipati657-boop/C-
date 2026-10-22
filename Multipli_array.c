@@ -54,7 +54,7 @@ int main(){
     }
      printf("\n");
      printf("\n");
-
+     //we will modify it later
      printf("The multiplication of the matrix is :\n");
     if(m==q){
      for(int i=0;i<m;i++){

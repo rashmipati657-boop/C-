@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<string.h>
 int main(){
 
 //    char arr[5]={'a','e','i','o','u'};
@@ -10,11 +11,15 @@ int main(){
 //    for(int i=0;i!='\0';i++){
 //     printf("%c ",arr1[i]);
 //    }
-   char arr2[]="My name is Rashmi";
-   for(int i=0;i!='\0';i++){
-    printf("%c ",arr2[i]);
-   }
+//    char arr2[]="My name is Rashmi";
+//    for(int i=0;i!='\0';i++){
+//     printf("%c ",arr2[i]);
+//    }
+   char str[]="My name is Rashmi";
+    puts(str);
 
+    char arr[]="My name is Rashmi";
+    printf("%s",arr);
    
 
     return 0;

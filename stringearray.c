@@ -20,6 +20,8 @@ int main(){
 
     char arr[]="My name is Rashmi";
     printf("%s",arr);
+
+    puts("\nHello How are you !");
    
 
     return 0;
